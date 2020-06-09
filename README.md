@@ -1,0 +1,2 @@
+# GetAllRequestHeaders_PHP
+PHPで全部のリクエストヘッダーを画面に表示するだけのテストサイト
